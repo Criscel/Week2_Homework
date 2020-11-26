@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Welcome to My First Responsive Portfolio
 
-You can use the [editor on GitHub](https://github.com/Criscel/Week2_Homework/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Description
+Mainly using Bootstrap to make a responsive website that changes depending on the screensizes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First creating 3 .HTML for the pages (index, portfolio and contact). Then copying links from Boostrap and creating a seperate .CSS file for all the alterations needed
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
+This webpage consist of 3 linked pages, The Home or Index page, the Portfolio page and the Contact Me page.
+The menus needs to be present and active on the navbar that changes into hamburger icon depending on the size of the browser.
 
-- Bulleted
-- List
+! [768px_Above_NavBar] (Assets/images/max_navbar.png)
+! [Small_NavBar] (Assets/images/minimized_navbar.png)
+! [About Me](Assets/images/About_Me.png)
+! [Portfolio] (Assets/images/Portfolio.png)
+! [Contact_Me] (Assets/images/contact_me.png)
 
-1. Numbered
-2. List
+## Credits
 
-**Bold** and _Italic_ and `Code` text
+ - [Bootstrap] (https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+ - [Markup_Validation_Service] (https://validator.w3.org/#validate_by_upload)
 
-[Link](url) and ![Image](src)
-```
+## Difficulties
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I failed to check the responsiveness of the page it is open on a mobile phone screen. I got really confused on how to use @media syntax.  Definitely must review the lectures and slide given by Bryan. 
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Criscel/Week2_Homework/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My pages uses the layout and styles from the Jekyll theme that I have selected [Thanks to Github!:) ].
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
