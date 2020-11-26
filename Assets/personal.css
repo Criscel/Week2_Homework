@@ -63,10 +63,5 @@ button {
   }
 
   @media screen and (max-width: 400px) {
-   /* The wrap width will be 400px */
-    #wrap {
-        min-height: 100%;
-        height: auto;
-        margin: 0 auto -60px;
-        padding: 0 0 60px;
+   
       }

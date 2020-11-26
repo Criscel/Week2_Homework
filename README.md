@@ -13,11 +13,11 @@ First creating 3 .HTML for the pages (index, portfolio and contact). Then copyin
 This webpage consist of 3 linked pages, The Home or Index page, the Portfolio page and the Contact Me page.
 The menus needs to be present and active on the navbar that changes into hamburger icon depending on the size of the browser.
 
-! [768px_Above_NavBar] (Assets/images/max_navbar.png)
-! [Small_NavBar] (Assets/images/minimized_navbar.png)
-! [About Me](Assets/images/About_Me.png)
-! [Portfolio] (Assets/images/Portfolio.png)
-! [Contact_Me] (Assets/images/contact_me.png)
+[768px_Above_NavBar] (Assets/images/max_navbar.png)
+[Small_NavBar] (Assets/images/minimized_navbar.png)
+[About Me](Assets/images/About_Me.png)
+[Portfolio] (Assets/images/Portfolio.png)
+[Contact_Me] (Assets/images/contact_me.png)
 
 ## Credits
 
